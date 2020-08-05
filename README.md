@@ -1,5 +1,5 @@
 # alarmclock
 
-Live link
+Live link 
 
-alarmclockapp.netlify.app
+https://alarmclockapp.netlify.app 

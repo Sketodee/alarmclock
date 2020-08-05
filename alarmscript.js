@@ -6,14 +6,13 @@ const dropdown = document.querySelector(".arrow");
 const dropdown2 = document.querySelector(".arrow2");
 const dropdown3 = document.querySelector(".arrow3");
 
-
 clicked.addEventListener ("click", function(select) {
     select.preventDefault;
     document.querySelector(".toggle-btn").classList.toggle("active");
     document.querySelector(".general").classList.toggle("darkmode");
-    dropdown.src = "images/whitearrow.png"; 
+    dropdown.src= "images/whitearrow.png"; 
     dropdown2.src = "images/whitearrow.png"; 
-    dropdown3.src = "images/whitearrow.png"; 
+    dropdown3.src = "images/whitearrow.png";
 })
 
 
